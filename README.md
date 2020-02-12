@@ -1,6 +1,6 @@
-# my implementation of some common processing filter in computer vision
+# my implementation of some common processing filters in computer vision
 
-## monna lisa salt and pepper
+## Monnalisa salt and pepper
 
 starting image
 
